@@ -1,0 +1,30 @@
+@media (min-width: 320px) {
+    .wrap__title{
+        font-size: 12px;
+    }
+}
+@media (min-width: 481px) {
+    .wrap__title{
+        font-size: 18px;
+    }
+}
+@media (min-width: 641px) {
+    .wrap__title{
+        font-size: 32px;
+    }
+}
+@media (min-width: 961px) {
+    .wrap__title{
+        font-size: 42px;
+    }
+}
+@media (min-width: 1025px) {
+    .wrap__title{
+        font-size: 48px;
+    }
+}
+@media (min-width: 1281px) {
+    .wrap__title{
+        font-size: 54px;
+    }
+}
